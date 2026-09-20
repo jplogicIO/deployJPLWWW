@@ -1,4 +1,4 @@
-# Electronic design | JPLogic
+# Electronic Design | JPLogic
 
 Electronic design is where product ideas meet real-world requirements. JPLogic supports customers working on new product development.
 

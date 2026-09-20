@@ -1,7 +1,7 @@
 # About JPLogic | Engineering with Purpose
 
-Meet JPLogic: engineering and technology support for new product development and older, still-functional equipment. Based in Arlington Heights, Illinois.
+Meet JPLogic: engineering and technology support for new product development, from first concept through a design proven ready for the field. Based in Arlington Heights, Illinois.
 
-JPLogic supports customers in new product development and provides service for outdated but still-functional equipment.
+JPLogic supports customers in new product development, from first concept through a design proven ready for the field.
 
 [Contact JPLogic](https://www.jplogic.io/contact/)

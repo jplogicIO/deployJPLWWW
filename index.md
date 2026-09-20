@@ -1,21 +1,21 @@
 # JPLogic | Electronic Design & Engineering Services
 
-Engineering what’s next. JPLogic supports new product development, electronic design, legacy hardware, IoT and blockchain in Arlington Heights, Illinois.
+Engineering what’s next. JPLogic supports new product development, electronic design, sensor systems, connected systems, and reliability & validation testing in Arlington Heights, Illinois.
 
-## Electronic design
+## Electronic Design
 Electronic design is where product ideas meet real-world requirements. JPLogic supports customers working on new product development.
 [Learn more](https://www.jplogic.io/services/electronic-design/)
 
-## Legacy hardware
-Outdated does not always mean obsolete. JPLogic provides service for older equipment that is still functional.
-[Learn more](https://www.jplogic.io/services/legacy-hardware/)
+## Sensor Systems
+Some hazards can't be seen, smelled, or heard until it's too late. JPLogic designs and builds sensor systems that detect what human senses can't — air quality, gas, and radiation among them.
+[Learn more](https://www.jplogic.io/services/sensor-systems/)
 
-## Internet of Things
+## Connected Systems & IP
 Internet of Things is one of JPLogic’s technology service areas. Start a conversation about your connected-device idea and the challenge you want to solve.
-[Learn more](https://www.jplogic.io/services/internet-of-things/)
+[Learn more](https://www.jplogic.io/services/connected-systems-ip/)
 
-## Blockchain technology
-JPLogic includes blockchain technology in its service offering. Discuss your use case to explore whether it is a suitable direction for your project.
-[Learn more](https://www.jplogic.io/services/blockchain/)
+## Reliability & Validation Testing
+JPLogic designs and runs the test plans that prove a product is ready — DFMEA, derating, environmental and functional validation — executed on the bench, not just written on paper.
+[Learn more](https://www.jplogic.io/services/reliability-validation-testing/)
 
 [Contact JPLogic](https://www.jplogic.io/contact/)

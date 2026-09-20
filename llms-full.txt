@@ -2,47 +2,47 @@
 
 > Engineering and technology services in Arlington Heights, Illinois, USA.
 
-JPLogic supports new product development and services outdated but still-functional equipment. Its service areas are electronic design, legacy hardware, Internet of Things and blockchain technology.
+JPLogic supports new product development, from first concept through a design proven ready for the field. Its service areas are Electronic Design, Sensor Systems, Connected Systems & IP, and Reliability & Validation Testing.
 
 Contact: jacek@jplogic.io
 
 ## Pages
-- [JPLogic | Electronic Design & Engineering Services](https://www.jplogic.io/): Engineering what’s next. JPLogic supports new product development, electronic design, legacy hardware, IoT and blockchain in Arlington Heights, Illinois.
-- [Engineering & Technology Services | JPLogic](https://www.jplogic.io/services/): Explore electronic design, legacy hardware service, Internet of Things and blockchain technology with JPLogic.
-- [Electronic design | JPLogic](https://www.jplogic.io/services/electronic-design/): Electronic design is where product ideas meet real-world requirements. JPLogic supports customers working on new product development.
-- [Legacy hardware | JPLogic](https://www.jplogic.io/services/legacy-hardware/): Outdated does not always mean obsolete. JPLogic provides service for older equipment that is still functional.
-- [Internet of Things | JPLogic](https://www.jplogic.io/services/internet-of-things/): Internet of Things is one of JPLogic’s technology service areas. Start a conversation about your connected-device idea and the challenge you want to solve.
-- [Blockchain technology | JPLogic](https://www.jplogic.io/services/blockchain/): JPLogic includes blockchain technology in its service offering. Discuss your use case to explore whether it is a suitable direction for your project.
-- [About JPLogic | Engineering with Purpose](https://www.jplogic.io/about/): Meet JPLogic: engineering and technology support for new product development and older, still-functional equipment. Based in Arlington Heights, Illinois.
-- [Frequently Asked Questions | JPLogic](https://www.jplogic.io/faq/): Answers about JPLogic’s engineering services, new product development support, legacy equipment, location and project enquiries.
-- [Discuss Your Engineering Project | JPLogic](https://www.jplogic.io/contact/): Contact JPLogic in Arlington Heights, Illinois. Discuss your electronic design, legacy hardware, Internet of Things or blockchain project.
+- [JPLogic | Electronic Design & Engineering Services](https://www.jplogic.io/): Engineering what’s next. JPLogic supports new product development, electronic design, sensor systems, connected systems, and reliability & validation testing in Arlington Heights, Illinois.
+- [Engineering & Technology Services | JPLogic](https://www.jplogic.io/services/): Explore Electronic Design, Sensor Systems, Connected Systems & IP, and Reliability & Validation Testing with JPLogic.
+- [Electronic Design | JPLogic](https://www.jplogic.io/services/electronic-design/): Electronic design is where product ideas meet real-world requirements. JPLogic supports customers working on new product development.
+- [Sensor Systems | JPLogic](https://www.jplogic.io/services/sensor-systems/): Some hazards can't be seen, smelled, or heard until it's too late. JPLogic designs and builds sensor systems that detect what human senses can't — air quality, gas, and radiation among them.
+- [Connected Systems & IP | JPLogic](https://www.jplogic.io/services/connected-systems-ip/): Internet of Things is one of JPLogic’s technology service areas. Start a conversation about your connected-device idea and the challenge you want to solve.
+- [Reliability & Validation Testing | JPLogic](https://www.jplogic.io/services/reliability-validation-testing/): JPLogic designs and runs the test plans that prove a product is ready — DFMEA, derating, environmental and functional validation — executed on the bench, not just written on paper.
+- [About JPLogic | Engineering with Purpose](https://www.jplogic.io/about/): Meet JPLogic: engineering and technology support for new product development, from first concept through a design proven ready for the field. Based in Arlington Heights, Illinois.
+- [Frequently Asked Questions | JPLogic](https://www.jplogic.io/faq/): Answers about JPLogic’s engineering services, new product development support, bench testing, location and project enquiries.
+- [Discuss Your Engineering Project | JPLogic](https://www.jplogic.io/contact/): Contact JPLogic in Arlington Heights, Illinois. Discuss your electronic design, sensor systems, connected systems & IP, or reliability & validation testing project.
 
 ## Machine-readable content
 - [Sitemap](https://www.jplogic.io/sitemap.xml)
 - [Full company summary](https://www.jplogic.io/llms-full.txt)
 - [JPLogic | Electronic Design & Engineering Services — Markdown](https://www.jplogic.io/index.md)
 - [Engineering & Technology Services | JPLogic — Markdown](https://www.jplogic.io/services/index.md)
-- [Electronic design | JPLogic — Markdown](https://www.jplogic.io/services/electronic-design/index.md)
-- [Legacy hardware | JPLogic — Markdown](https://www.jplogic.io/services/legacy-hardware/index.md)
-- [Internet of Things | JPLogic — Markdown](https://www.jplogic.io/services/internet-of-things/index.md)
-- [Blockchain technology | JPLogic — Markdown](https://www.jplogic.io/services/blockchain/index.md)
+- [Electronic Design | JPLogic — Markdown](https://www.jplogic.io/services/electronic-design/index.md)
+- [Sensor Systems | JPLogic — Markdown](https://www.jplogic.io/services/sensor-systems/index.md)
+- [Connected Systems & IP | JPLogic — Markdown](https://www.jplogic.io/services/connected-systems-ip/index.md)
+- [Reliability & Validation Testing | JPLogic — Markdown](https://www.jplogic.io/services/reliability-validation-testing/index.md)
 - [About JPLogic | Engineering with Purpose — Markdown](https://www.jplogic.io/about/index.md)
 - [Frequently Asked Questions | JPLogic — Markdown](https://www.jplogic.io/faq/index.md)
 - [Discuss Your Engineering Project | JPLogic — Markdown](https://www.jplogic.io/contact/index.md)
 
 ## Accuracy
-Illustrations are AI-generated conceptual electronics, not documented JPLogic products. No customer counts, certifications, partnerships, guarantees or project results are claimed. Confirm scope, availability and commercial terms directly with JPLogic.
+No customer counts, certifications, partnerships, guarantees or project results are claimed. Confirm scope, availability and commercial terms directly with JPLogic.
 
 ## Frequently asked questions
 
 ### What does JPLogic do?
-JPLogic provides engineering and technology services in electronic design, legacy hardware service, Internet of Things, and blockchain technology.
+JPLogic provides engineering and technology services in electronic design, sensing technologies, connectivity, and bench testing.
 
 ### Can you support a new product idea?
 Yes. Supporting customers with new product development (NPD) is part of JPLogic’s mission. Share your idea and the engineering support you are looking for to discuss the next steps.
 
-### Do you work with older equipment?
-Yes. JPLogic provides service for outdated but still functional equipment. Include the equipment details and the issue you are experiencing when you get in touch.
+### Do you perform bench testing?
+Yes. JPLogic designs and runs test plans covering DFMEA, derating, and environmental and functional validation, executed on the bench. Share your design, requirements, and testing goals to discuss the next steps.
 
 ### Where is JPLogic located?
 JPLogic is based in Arlington Heights, Illinois, USA.
